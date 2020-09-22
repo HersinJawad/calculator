@@ -1,0 +1,20 @@
+.container {
+  margin: auto;
+  margin-top: 20px;
+  border: solid;
+  width: 450px;
+  height: 320px;
+}
+.row {
+  margin: 10px 20px;
+  width: fit-content;
+}
+.row1 {
+  margin-top: 35px;
+}
+
+.btn {
+  border: 5px solid rgba(0, 0, 0, 0.603);
+  margin: 0px 6px;
+  width: 80px;
+}
